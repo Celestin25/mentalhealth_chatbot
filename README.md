@@ -37,8 +37,6 @@ Ensure you have Python and the necessary packages (`tensorflow`, `numpy`, `panda
 Ensure you have (Node.js (v18.x or higher)
 npm (v8.x or higher)
 
-### link to demo of the app:https://drive.google.com/file/d/1mvGw7HpfLOWOX929-gwv4KCZliLO8X5o/view?usp=drive_link
-
 ## Screenshot for english version
 
 ![image](https://github.com/user-attachments/assets/35d7c0da-6af0-4bd0-b0d5-dc7e6fb5b0f2)
